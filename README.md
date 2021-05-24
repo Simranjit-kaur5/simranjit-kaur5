@@ -1,5 +1,7 @@
 ### Hi there 👋
+This is Simranjit kaur from Seneca
 
+#OPS 435
 <!--
 **Simranjit-kaur5/simranjit-kaur5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
