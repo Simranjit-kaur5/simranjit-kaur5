@@ -1,0 +1,66 @@
+.
+|-- gitlog.txt
+|-- repo_tree.txt
+`-- simranjit-kaur5
+    |-- .git
+    |   |-- HEAD
+    |   |-- branches
+    |   |-- config
+    |   |-- description
+    |   |-- hooks
+    |   |   |-- applypatch-msg.sample
+    |   |   |-- commit-msg.sample
+    |   |   |-- fsmonitor-watchman.sample
+    |   |   |-- post-update.sample
+    |   |   |-- pre-applypatch.sample
+    |   |   |-- pre-commit.sample
+    |   |   |-- pre-push.sample
+    |   |   |-- pre-rebase.sample
+    |   |   |-- pre-receive.sample
+    |   |   |-- prepare-commit-msg.sample
+    |   |   `-- update.sample
+    |   |-- index
+    |   |-- info
+    |   |   `-- exclude
+    |   |-- logs
+    |   |   |-- HEAD
+    |   |   `-- refs
+    |   |       |-- heads
+    |   |       |   `-- main
+    |   |       `-- remotes
+    |   |           `-- origin
+    |   |               `-- HEAD
+    |   |-- objects
+    |   |   |-- 02
+    |   |   |   `-- c8c0e33d131ec7b5d6bb19025e3aa94eaddb46
+    |   |   |-- 36
+    |   |   |   `-- 68fb1d4c759ab34aecf24d830306d872f97456
+    |   |   |-- 46
+    |   |   |   `-- 9f7398924482c876f719d35b36099feb6f8300
+    |   |   |-- 5f
+    |   |   |   `-- bfd9f36dc59fdff7f9b4e5feb90fa18981b62c
+    |   |   |-- aa
+    |   |   |   `-- 67815eee2e27121333f5eeb39f70ca8d4fb523
+    |   |   |-- b1
+    |   |   |   `-- d70575546ed8c13a3175d2b399ba26c927da33
+    |   |   |-- b4
+    |   |   |   `-- e2445d21a5ef797dfb8018e16ff2a7a9f60847
+    |   |   |-- bf
+    |   |   |   `-- b6ad1bc6e2339d9084991c1c80171fb2cf9a03
+    |   |   |-- d0
+    |   |   |   `-- 740ceda616a2d02078c5718bb8285777042425
+    |   |   |-- f8
+    |   |   |   `-- 9b916fd6bcfd9583fd30831cd70df4c600721d
+    |   |   |-- info
+    |   |   `-- pack
+    |   |-- packed-refs
+    |   `-- refs
+    |       |-- heads
+    |       |   `-- main
+    |       |-- remotes
+    |       |   `-- origin
+    |       |       `-- HEAD
+    |       `-- tags
+    `-- README.md
+
+28 directories, 35 files
